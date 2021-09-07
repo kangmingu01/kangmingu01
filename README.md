@@ -15,10 +15,9 @@
   <br>
   <h3>😎 My stats 😎</h3>
   
-  ![Mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmingu01&show_icons=true&hide=contribs,prs&theme=tokyonight ))
+  ![Mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmingu01&show_icons=true&hide=contribs,prs,issues&theme=tokyonight ))
   <br>
   <h3>🧸 About Me 🧸<h3>
   <a href="https://velog.io/@jkang4531"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.instagram.com/Kang.__.mingu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
 </div>
