@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Mingu's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Mingu's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div align='center'>
   <h3>🛠️ Tech Stack 🛠️</h3>
