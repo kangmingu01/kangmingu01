@@ -16,7 +16,7 @@
   <br>
   <h3>😎 My stats 😎</h3>
   
-  // ![Mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmingu01&show_icons=true&hide=contribs,prs&theme=tokyonight ))
+  ![Mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmingu01&show_icons=true&hide=contribs,prs&theme=tokyonight )
   <br>
   
   <h3>🧸 About Me 🧸<h3>
