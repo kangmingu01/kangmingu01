@@ -24,4 +24,4 @@
 
 </div>
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Kang.__.Mingu?theme=dark&posts=3)
+// ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Kang.__.Mingu?theme=dark&posts=3)
