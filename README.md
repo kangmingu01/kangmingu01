@@ -1,5 +1,6 @@
-
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/pakxe)
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Mingu's%20GitHub&fontSize=70&animation=scaleIn)
+
 
 <div align='center'>
   <h3>🛠️ Tech Stack 🛠️</h3>
@@ -24,4 +25,5 @@
   <a href="https://www.instagram.com/Kang.__.mingu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
+
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Kang.__.Mingu?theme=dark&posts=3)
