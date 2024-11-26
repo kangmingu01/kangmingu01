@@ -24,5 +24,5 @@
 
 </div>
 <div align='center'>
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Kang.__.Mingu?theme=dark&posts=3)
+  <a href="![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Kang.__.Mingu?theme=dark&posts=3)"/>
 </div>
